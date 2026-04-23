@@ -18,7 +18,6 @@ Através da construção de dashboards no Tableau, foram explorados padrões de 
 ## 🛠️ Ferramentas utilizadas
 - Tableau (visualização de dados)
 - Excel (tratamento e organização)
-- SQL (conceitos aplicados)
 
 ---
 
